@@ -1,0 +1,74 @@
+/* GENERAL */
+.btn {
+	border-radius: 25px;
+	margin-left: 10px;
+}
+
+/* NAVBAR */
+.navbar-brand {
+    font-size: 30px;
+    font-weight: arial;
+}
+
+.navbar .navbar-brand {
+	color: white;
+}
+
+.navbar .nav-item {
+	color: red;
+}
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+	background-color: #F15555;
+}
+
+.jumbotron hr {
+	border-top: 1px solid rgba(0,0,0,1);
+	width: 80px;
+}
+
+
+/* Secciones */
+.section-title {
+	font-size: 45px;
+}
+
+h1.display-4{
+	font-size: 35px;
+	font-weight: bold;
+	color: gray;
+}
+p.lead{
+	font-size: 20px;
+	color: gray;
+}
+p.lead5{
+	font-size: 20px;
+	color: white;
+}
+
+h3.display-4{
+	font-size: 35px;
+	font-weight: bold;
+	color: #5C5B5B;
+}
+
+
+h4.name{
+	font-size: 20px;
+	font-weight: bold;
+	color: #5C5B5B;
+}
+
+.container4{
+	background-color: #FEF8F4;
+}
+
+h3.display-5{
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
